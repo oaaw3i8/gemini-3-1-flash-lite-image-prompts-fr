@@ -101,6 +101,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [gemini-3-1-flash-lite-image-api-fr](https://github.com/oaaw3i8/gemini-3-1-flash-lite-image-api-fr)
+- **Same model, other languages** — 9 more language builds: 中文 `gemini-3-1-flash-lite-image-api-cn` · Deutsch [gemini-3-1-flash-lite-image-api-de](https://github.com/fa4q25y/gemini-3-1-flash-lite-image-api-de) · Español [gemini-3-1-flash-lite-image-api-es](https://github.com/cdin2bv04dg/gemini-3-1-flash-lite-image-api-es) · Relay/gateway [gemini-3-1-flash-lite-image-api-gateway](https://github.com/ke84b1y8yw17/gemini-3-1-flash-lite-image-api-gateway) · Bahasa [gemini-3-1-flash-lite-image-api-id](https://github.com/vza9q6bfv5zy/gemini-3-1-flash-lite-image-api-id) · 日本語 `gemini-3-1-flash-lite-image-api-ja` · 한국어 [gemini-3-1-flash-lite-image-api-ko](https://github.com/yqnwlelqzmfd0c/gemini-3-1-flash-lite-image-api-ko) · Português [gemini-3-1-flash-lite-image-api-pt](https://github.com/w-flf0/gemini-3-1-flash-lite-image-api-pt) · Русский `gemini-3-1-flash-lite-image-api-ru`
+- **More models in this language** — [midjourney-api-fr](https://github.com/apimartt1q/midjourney-api-fr) · [gemini-2-5-flash-image-preview-api-fr](https://github.com/haftslut7ha/gemini-2-5-flash-image-preview-api-fr) · [nano-banana-api-fr](https://github.com/f84q06w110/nano-banana-api-fr) · [gemini-3-1-flash-image-preview-api-fr](https://github.com/ok71ckyc/gemini-3-1-flash-image-preview-api-fr) · [nano-banana-2-api-fr](https://github.com/ms0p12t/nano-banana-2-api-fr) · [gemini-3-pro-image-preview-api-fr](https://github.com/w-44vba/gemini-3-pro-image-preview-api-fr)
+- **Topic hubs** — every build of this model, all languages: [gemini-3-1-flash-lite-image](https://github.com/topics/gemini-3-1-flash-lite-image) · [gemini-3-1-flash-lite-image-api](https://github.com/topics/gemini-3-1-flash-lite-image-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
